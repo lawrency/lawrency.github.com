@@ -2,15 +2,15 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "initcategory"]
 auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Longeek Blog
-tagline: Site Tagline
+title : Lawrency.Meng Blog
+tagline: python openstack git nova
 author :
   name : Lawrency.Meng
   email : mengql112233@gmail.com
