@@ -35,7 +35,7 @@ _NOTE: before do the following steps, run `echo 'insecure' >> ~/.curlrc` for ca_
 disable insecure mode of curl by delete insecure line in ~/.curlrc, then  
 
     $ cd USERNAME.github.com  
-    $ jekyll --server
+    $ jekyll serve
 
 Now, check local jekyll by type `http://localhost:4000`, your blog is here.
 ## Custom Jekyll
