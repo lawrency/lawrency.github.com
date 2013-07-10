@@ -29,6 +29,7 @@ _NOTE: before do the following steps, run `echo 'insecure' >> ~/.curlrc` for ca_
     $ rvm requirements  
     $ rvm install 1.9.2 && rvm use 1.9.2
     $ rvm rubygems latest
+    $ gem install rdoc
     $ gem install jekyll  
 
 disable insecure mode of curl by delete insecure line in ~/.curlrc, then  
